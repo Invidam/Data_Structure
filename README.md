@@ -4,15 +4,15 @@
 
 **ForSave 디렉터리에**
 
-Single_Linked_list,
-Double_Linked_list,
-Stack,
-Queue,
-Tree,
-Graph,
-Sort_Algorithm,
-Binary_Search,
-Tree2 (AVL, 2-3, RB),
-Hash_Algorithm
+- Single_Linked_list
+- Double_Linked_list
+- Stack
+- Queue
+- Tree
+- Graph
+- Sort_Algorithm
+- Binary_Search
+- Tree2 (AVL, 2-3, RB)
+- Hash_Algorithm
 
 **파트들을 구현하였습니다.**
